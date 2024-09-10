@@ -24,3 +24,29 @@ C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento de Loja\obj\Debu
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento de Loja\obj\Debug\Gerenciamento_de_Loja.F_gestaoProdutos.resources
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento de Loja\obj\Debug\Gerenciamento_de_Loja.F_cadastroFuncionarios.resources
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento de Loja\obj\Debug\Gerenciamento_de_Loja.F_gestaoFuncionarios.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\Gerenciamento de Loja.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\Gerenciamento de Loja.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\Gerenciamento de Loja.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\EntityFramework.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\Guna.UI2.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\System.Data.SQLite.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\EntityFramework.xml
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\bin\Debug\System.Data.SQLite.xml
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento de Loja.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_cadastrarProduto.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_cadastroFuncionarios.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_cadastroUsuarios.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_gestaoFuncionarios.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_gestaoProdutos.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.F_login.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento_de_Loja.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento de Loja.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento de Loja.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerencia.592AB910.Up2Date
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento de Loja.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Gerenciamento-de-Loja\obj\Debug\Gerenciamento de Loja.pdb
